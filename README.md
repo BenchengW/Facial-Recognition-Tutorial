@@ -1,4 +1,4 @@
-# Facial Recognition MMAI844 Tutorial
+# Facial Recognition Tutorial
 
 ## Clone the project locally:
 ```bash
